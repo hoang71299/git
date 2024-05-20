@@ -1,0 +1,46 @@
+CART:
+từ vị tri thang nay (this) dựa theo class lay: img, name, price, id
+
+và tao objcon nhu sau:
+  {
+    img:...
+    price:..
+    name:..
+    qty:1 
+  }
+
+va sau do dua objcon nay vao objCha, va dung chinh ID cua product làm key
+(ID chua co, nên tự them vao trong html, 6 product 6 ID)
+<!-- obcha[id] = obcjcha -->
+{
+  product1: {
+    img:...
+    price:..
+    name:..
+    qty:1
+  }
+}
+=> dua vao local
+{
+  product1: {
+    img:...
+    price:..
+    name:..
+    qty:2
+  },
+  product2: {
+    img:...
+    price:..
+    name:..
+    qty:1
+  },
+  ...
+}
+
+va chu y giup a, 1 product mua nhieu lan thi tang qty cua no len
+
+
+
+clik vao + thi:
+- tăng qty va total truc tiêp trẻn màn hình mà k cần reload trang
+- luu qty mới vào product đang co trong local

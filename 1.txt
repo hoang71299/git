@@ -1,0 +1,15 @@
+Làm dự án mua bán:
+
+
+- backend: cung câp API
+  cài hệ thống api theo link sau:
+  https://drive.google.com/drive/folders/1GeydrbUc4VUTUxwV2MRjZLydZuydxM7k
+
+  (xoá hết nhưng phần mềm lien quan tới sql)
+
+- frontend:
+ + tạo 1 dự án reactjs mới (mở bai 1 ra xem cách tao)
+ + lấy giao dien frontend.zip ve giai nen ra
+ + rap 2 trang blog va blog detail vào (xem lai bai 6 va 😎, tương ưng với 2 router 
+ + chú y nhung phần html cố đinh như header, footer thi tạo 1 component rieng
+ (https://docs.google.com/spreadsheets/d/1Uh0ggm_5GN-RgruSQta6GthAYJ9Iq0blUqHblHdDAug/edit#gid=1001514031)
